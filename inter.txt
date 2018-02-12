@@ -1,3 +1,5 @@
 too young too simple
 
 edit by vim.
+
+dufault editor of text file is vim.
